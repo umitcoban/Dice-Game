@@ -39,3 +39,21 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+.play{
+    margin: 10% auto;
+}
+
+.btn{
+  width: 300px;
+  background-color: transparent;
+}
+
+.btn:hover{
+  background-color: lime;
+}
+
+.play-text{
+  font-weight: bold;
+  font-size: 3rem;
+}
+
